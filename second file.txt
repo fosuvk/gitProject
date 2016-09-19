@@ -1,0 +1,2 @@
+This is the second file that has been opened.
+Now a second line has been added
