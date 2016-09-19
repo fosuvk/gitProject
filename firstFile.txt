@@ -4,3 +4,4 @@ I just added a third line to the first file
 Now a forthline has been added
 Now a fifthline has been added
 Now a sixthline has been added
+Now a another line has been added
